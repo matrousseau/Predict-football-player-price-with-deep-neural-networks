@@ -1,0 +1,344 @@
+nom,prenom,age,totalbut,poste,equipe
+Weah,Timothy ,22 févr. 2000(18),3,Avant centre                            ,Paris SG
+Ngamukol,Anatole ,15 janv. 1988(30),Journée,Avant centre                            ,Stade Reims
+Chavarría,Pablo ,2 janv. 1988(30),10,Avant centre                            ,Stade Reims
+Suk,Hyun-jun ,29 juin 1991(27),9,Avant centre                            ,Stade Reims
+Ojo,Sheyi ,19 juin 1997(21),8,Ailier droit                            ,Stade Reims
+Oudin,Rémi ,18 nov. 1996(21),10,Ailier droit                            ,Stade Reims
+Doumbia,Moussa ,15 août 1994(24),7,Ailier gauche                            ,Stade Reims
+Piechocki,Virgile ,12 janv. 1997(21),Journée,,Stade Reims
+Martin,Marvin ,10 janv. 1988(30),6,Milieu offensif                            ,Stade Reims
+Cafaro,Mathieu ,25 mars 1997(21),9,Milieu offensif                            ,Stade Reims
+Ndom,Aly ,30 mai 1996(22),5,Milieu central                            ,Stade Reims
+Dingomé,Tristan ,17 févr. 1991(27),Journée,Milieu central                            ,Stade Reims
+Chavalerin,Xavier ,7 mars 1991(27),9,Milieu central                            ,Stade Reims
+Mbemba,Nolan ,19 févr. 1995(23),3,,Stade Reims
+Romao,Alaixys ,18 janv. 1984(34),10,Milieu défensif                            ,Stade Reims
+Métanire,Romain ,28 mars 1990(28),4,Arrière droit                            ,Stade Reims
+Foket,Thomas ,25 sept. 1994(24),14,Arrière droit                            ,Stade Reims
+Bana,Moussa ,1 oct. 1997(21),Journée,,Stade Reims
+Kamara,Hassane ,5 mars 1994(24),3,Arrière gauche                            ,Stade Reims
+Konan,Ghislain ,27 déc. 1995(22),10,Arrière gauche                            ,Stade Reims
+Disasi,Axel ,11 mars 1998(20),1,Défenseur central                            ,Stade Reims
+Fontaine,Thomas ,8 mai 1991(27),4,Défenseur central                            ,Stade Reims
+Abdelhamid,Yunis ,28 sept. 1987(31),10,Défenseur central                            ,Stade Reims
+Engels,Björn ,15 sept. 1994(24),6,Défenseur central                            ,Stade Reims
+Lemaître,Nicolas ,12 janv. 1997(21),Journée,,Stade Reims
+Carrasso,Johann ,7 mai 1988(30),-,Gardien de but                            ,Stade Reims
+Mendy,Edouard ,1 mars 1992(26),10,Gardien de but                            ,Stade Reims
+Choupo-Moting,Eric Maxim ,23 mars 1989(29),4,Avant centre                            ,Paris SG
+Cavani,Edinson ,14 févr. 1987(31),9,Avant centre                            ,Paris SG
+Diaby,Moussa ,7 juil. 1999(19),7,Ailier droit                            ,Paris SG
+Di María,Ángel ,14 févr. 1988(30),13,Ailier droit                            ,Paris SG
+Mbappé,Kylian ,20 déc. 1998(19),8,Ailier droit                            ,Paris SG
+Jesé,,26 févr. 1993(25),Journée,Ailier gauche                            ,Paris SG
+Neymar,,5 févr. 1992(26),11,Ailier gauche                            ,Paris SG
+Adli,Yacine ,29 juil. 2000(18),Journée,Milieu offensif                            ,Paris SG
+Draxler,Julian ,20 sept. 1993(25),10,Milieu offensif                            ,Paris SG
+Bernede,Antoine ,26 mai 1999(19),3,Milieu central                            ,Paris SG
+Nkunku,Christopher ,14 nov. 1997(20),10,Milieu central                            ,Paris SG
+Rabiot,Adrien ,3 avr. 1995(23),12,Milieu central                            ,Paris SG
+Verratti,Marco ,5 nov. 1992(25),8,Milieu central                            ,Paris SG
+Diarra,Lassana ,10 mars 1985(33),4,Milieu défensif                            ,Paris SG
+Dagba,Colin ,6 sept. 1998(20),4,Arrière droit                            ,Paris SG
+Alves,Dani ,6 mai 1983(35),Journée,Arrière droit                            ,Paris SG
+Meunier,Thomas ,12 sept. 1991(27),9,Arrière droit                            ,Paris SG
+N'Soki,Stanley ,9 avr. 1999(19),5,Arrière gauche                            ,Paris SG
+Bernat,Juan ,1 mars 1993(25),7,Arrière gauche                            ,Paris SG
+Kurzawa,Layvin ,4 sept. 1992(26),-,Arrière gauche                            ,Paris SG
+Silva,Thiago ,22 sept. 1984(34),11,Défenseur central                            ,Paris SG
+Kehrer,Thilo ,21 sept. 1996(22),8,Défenseur central                            ,Paris SG
+Kimpembe,Presnel ,13 août 1995(23),8,Défenseur central                            ,Paris SG
+Marquinhos,,14 mai 1994(24),11,Défenseur central                            ,Paris SG
+Cibois,Sébastien ,2 mars 1998(20),-,Gardien de but                            ,Paris SG
+Buffon,Gianluigi ,28 janv. 1978(40),6,Gardien de but                            ,Paris SG
+Areola,Alphonse ,27 févr. 1993(25),7,Gardien de but                            ,Paris SG
+Julan,Nathaël ,19 juil. 1996(22),4,Avant centre                            ,EA Guingamp
+Doré,Férébory ,21 janv. 1989(29),Journée,Avant centre                            ,SCO Angers
+Kanga,Wilfried ,21 févr. 1998(20),7,Avant centre                            ,SCO Angers
+López,Cristian ,24 juil. 1989(29),2,Avant centre                            ,SCO Angers
+Bahoken,Stéphane ,28 mai 1992(26),7,Avant centre                            ,SCO Angers
+El Melali,Farid ,5 mai 1997(21),2,Ailier droit                            ,SCO Angers
+Reine-Adélaïde,Jeff ,17 janv. 1998(20),9,Ailier droit                            ,SCO Angers
+Touré,Thomas ,27 déc. 1993(24),Journée,Ailier gauche                            ,SCO Angers
+Tait,Flavien ,2 févr. 1993(25),9,Ailier gauche                            ,SCO Angers
+Bertrand,Dorian ,21 mai 1993(25),-,Milieu offensif                            ,SCO Angers
+Puyo,Loïc ,19 déc. 1988(29),Journée,Milieu gauche                            ,SCO Angers
+Manzala,Harisson ,6 mars 1994(24),5,Milieu droit                            ,SCO Angers
+Capelle,Pierrick ,15 avr. 1987(31),10,Milieu central                            ,SCO Angers
+N'Doye,Cheikh ,29 mars 1986(32),11,Milieu central                            ,SCO Angers
+Mangani,Thomas ,29 avr. 1987(31),8,Milieu central                            ,SCO Angers
+Fulgini,Angelo ,20 août 1996(22),6,Milieu central                            ,SCO Angers
+Pajot,Vincent ,19 août 1990(28),5,Milieu défensif                            ,SCO Angers
+Santamaría,Baptiste ,9 mars 1995(23),10,Milieu défensif                            ,SCO Angers
+Bamba,Abdoulaye ,25 avr. 1990(28),8,Arrière droit                            ,SCO Angers
+Manceau,Vincent ,24 juil. 1989(29),10,Arrière droit                            ,SCO Angers
+Aït Nouri,Rayan ,6 juin 2001(17),1,Arrière gauche                            ,SCO Angers
+Ciss,Saliou ,15 sept. 1989(29),Journée,Arrière gauche                            ,SCO Angers
+Andreu,Yoann ,3 mai 1989(29),-,Arrière gauche                            ,SCO Angers
+Cissé,Ibrahim ,2 mai 1996(22),Journée,Défenseur central                            ,SCO Angers
+Pavlovic,Mateo ,9 juin 1990(28),6,Défenseur central                            ,SCO Angers
+Traoré,Ismaël ,18 août 1986(32),10,Défenseur central                            ,SCO Angers
+Thomas,Romain ,12 juin 1988(30),5,Défenseur central                            ,SCO Angers
+Mandrea,Anthony ,25 déc. 1996(21),-,Gardien de but                            ,SCO Angers
+Butelle,Ludovic ,3 avr. 1983(35),10,Gardien de but                            ,SCO Angers
+Boucher,Zacharie ,7 mars 1992(26),2,Gardien de but                            ,SCO Angers
+Thuram,Marcus ,6 août 1997(21),8,Avant centre                            ,EA Guingamp
+Roux,Nolan ,1 mars 1988(30),8,Avant centre                            ,EA Guingamp
+N'Gbakoto,Yeni ,23 janv. 1992(26),4,Ailier droit                            ,EA Guingamp
+Coco,Marcus ,24 juin 1996(22),8,Ailier droit                            ,EA Guingamp
+Rodelin,Ronny ,18 nov. 1989(28),4,Ailier droit                            ,EA Guingamp
+Benezet,Nicolas ,24 févr. 1991(27),10,Milieu offensif                            ,EA Guingamp
+Didot,Étienne ,24 juil. 1983(35),10,Milieu central                            ,EA Guingamp
+Fofana,Guessouma ,17 déc. 1992(25),7,Milieu central                            ,EA Guingamp
+Blas,Ludovic ,31 déc. 1997(20),9,Milieu central                            ,EA Guingamp
+Phiri,Lebogang ,9 nov. 1994(23),4,Milieu défensif                            ,EA Guingamp
+Deaux,Lucas ,26 déc. 1988(29),6,Milieu défensif                            ,EA Guingamp
+Traoré,Cheik ,31 mars 1995(23),4,Arrière droit                            ,EA Guingamp
+Ikoko,Jordan ,3 févr. 1994(24),8,Arrière droit                            ,EA Guingamp
+Tabanou,Franck ,30 janv. 1989(29),1,Arrière gauche                            ,EA Guingamp
+Rebocho,Pedro ,23 janv. 1995(23),9,Arrière gauche                            ,EA Guingamp
+Koita,Djegui ,5 août 1999(19),1,1er niveau,EA Guingamp
+Sorbon,Jérémy ,5 août 1983(35),8,Défenseur central                            ,EA Guingamp
+Kerbrat,Christophe ,2 août 1986(32),8,Défenseur central                            ,EA Guingamp
+Eboa Eboa,Felix ,19 avr. 1997(21),8,Défenseur central                            ,EA Guingamp
+Caillard,Marc-Aurèle ,12 mai 1994(24),-,Gardien de but                            ,EA Guingamp
+Petric,Denis ,24 mai 1988(30),-,Gardien de but                            ,EA Guingamp
+Johnsson,Karl-Johan ,28 janv. 1990(28),10,Gardien de but                            ,EA Guingamp
+Bachibou Koita,,15 avr. 1994(24),Journée,Avant centre                            ,SC Amiens
+Ben Amar,Sami ,2 mars 1998(20),Journée,Avant centre                            ,Nîmes Olympique
+Depres,Clément ,25 nov. 1994(23),9,Avant centre                            ,Nîmes Olympique
+Guillaume,Baptiste ,16 juin 1995(23),8,Avant centre                            ,Nîmes Olympique
+Alioui,Rachid ,18 juin 1992(26),3,Avant centre                            ,Nîmes Olympique
+Bozok,Umut ,19 sept. 1996(22),10,Avant centre                            ,Nîmes Olympique
+Vlachodimos,Panagiotis ,12 oct. 1991(27),-,Milieu gauche                            ,Nîmes Olympique
+Ripart,Renaud ,14 mars 1993(25),10,Milieu gauche                            ,Nîmes Olympique
+Maouassa,Faitout ,6 juil. 1998(20),4,Milieu gauche                            ,Nîmes Olympique
+Bouanga,Denis ,11 nov. 1994(23),7,Milieu gauche                            ,Nîmes Olympique
+Thioub,Sada ,1 juin 1995(23),10,Milieu droit                            ,Nîmes Olympique
+Valdivia,Pierrick ,18 avr. 1988(30),Journée,Milieu central                            ,Nîmes Olympique
+Valls,Theo ,18 déc. 1995(22),10,,Nîmes Olympique
+Bobichon,Antonin ,14 sept. 1995(23),7,,Nîmes Olympique
+Savanier,Téji ,22 déc. 1991(26),5,Milieu central                            ,Nîmes Olympique
+Hsissane,Abdel Malik ,28 janv. 1991(27),-,Milieu défensif                            ,Nîmes Olympique
+Diallo,Mustapha ,14 mai 1986(32),7,Milieu défensif                            ,Nîmes Olympique
+Paquiez,Gaëtan ,15 févr. 1994(24),5,30.06.2020,Nîmes Olympique
+Alakouch,Sofiane ,29 juil. 1998(20),9,Arrière droit                            ,Nîmes Olympique
+Miguel,Florian ,1 sept. 1996(22),4,Arrière gauche                            ,Nîmes Olympique
+Lybohy,Hervé ,23 juil. 1983(35),4,Défenseur central                            ,Nîmes Olympique
+Harek,Féthi ,21 oct. 1982(36),1,Défenseur central                            ,Nîmes Olympique
+Landre,Loïck ,5 mai 1992(26),8,Défenseur central                            ,Nîmes Olympique
+Briancon,Anthony ,28 nov. 1994(23),9,Défenseur central                            ,Nîmes Olympique
+Sourzac,Martin ,25 mars 1992(26),Journée,Gardien de but                            ,Nîmes Olympique
+Valette,Baptiste ,1 sept. 1992(26),-,Gardien de but                            ,Nîmes Olympique
+Bernardoni,Paul ,18 avr. 1997(21),10,Gardien de but                            ,Nîmes Olympique
+Ghoddos,Saman ,6 sept. 1993(25),8,Avant centre                            ,SC Amiens
+Konaté,Moussa ,3 avr. 1993(25),10,Avant centre                            ,SC Amiens
+Timite,Cheick ,20 nov. 1997(20),3,,SC Amiens
+Cornette,Quentin ,17 janv. 1994(24),4,Ailier droit                            ,SC Amiens
+Otero,Juan Ferney ,26 mai 1995(23),9,Ailier droit                            ,SC Amiens
+Traoré,Gaoussou ,4 déc. 1999(18),3,1er niveau,SC Amiens
+Mendoza,Stiven ,27 juin 1992(26),4,Ailier gauche                            ,SC Amiens
+Kurzawa,Rafal ,29 janv. 1993(25),6,Ailier gauche                            ,SC Amiens
+Rabeï,Réda ,12 juil. 1994(24),-,Milieu offensif                            ,SC Amiens
+Ganso,,12 oct. 1989(29),7,Milieu offensif                            ,SC Amiens
+Gnahoré,Eddy ,14 nov. 1993(24),9,Milieu central                            ,SC Amiens
+Zungu,Bongani ,9 oct. 1992(26),2,Milieu central                            ,SC Amiens
+Monconduit,Thomas ,10 févr. 1991(27),6,Milieu défensif                            ,SC Amiens
+Blin,Alexis ,16 sept. 1996(22),2,Milieu défensif                            ,SC Amiens
+Gendrey,Valentin ,21 juin 2000(18),Journée,,SC Amiens
+El Hajjam,Oualid ,19 févr. 1991(27),6,Arrière droit                            ,SC Amiens
+Krafth,Emil ,2 août 1994(24),9,Arrière droit                            ,SC Amiens
+Sy,Sanasi ,4 déc. 1999(18),-,1er niveau,SC Amiens
+Lefort,Jordan ,9 août 1993(25),6,Arrière gauche                            ,SC Amiens
+Dibassy,Bakaye ,11 août 1989(29),9,Arrière gauche                            ,SC Amiens
+Bodmer,Mathieu ,22 nov. 1982(35),10,Défenseur central                            ,SC Amiens
+Adénon,Khaled ,28 juil. 1985(33),9,Défenseur central                            ,SC Amiens
+Gouano,Prince ,24 déc. 1993(24),6,Défenseur central                            ,SC Amiens
+Banaziak,Gauthier ,25 mai 1997(21),Journée,-,SC Amiens
+Dreyer,Matthieu ,20 mars 1989(29),-,Gardien de but                            ,SC Amiens
+Gurtner,Régis ,8 déc. 1986(31),10,Gardien de but                            ,SC Amiens
+Tchokounté,Malik ,11 sept. 1988(30),8,Avant centre                            ,SM Caen
+Zohi,Kévin ,19 déc. 1996(21),7,30.06.2021,R. Strasbourg
+Ajorque,Ludovic ,25 févr. 1994(24),4,Avant centre                            ,R. Strasbourg
+Saadi,Idriss ,8 févr. 1992(26),1,Avant centre                            ,R. Strasbourg
+Da Costa,Nuno ,10 févr. 1991(27),10,Avant centre                            ,R. Strasbourg
+Mothiba,Lebo ,28 janv. 1996(22),10,Avant centre                            ,R. Strasbourg
+Corgnet,Benjamin ,6 avr. 1987(31),6,Milieu offensif                            ,R. Strasbourg
+Thomasson,Adrien ,10 déc. 1993(24),8,Milieu offensif                            ,R. Strasbourg
+Zemzemi,Moataz ,7 août 1999(19),1,Milieu gauche                            ,R. Strasbourg
+Fofana,Youssouf ,10 janv. 1999(19),2,30.06.2021,R. Strasbourg
+Gonçalves,Anthony ,6 mars 1986(32),4,Milieu central                            ,R. Strasbourg
+Liénard,Dimitri ,13 févr. 1988(30),6,Milieu central                            ,R. Strasbourg
+Martin,Jonas ,9 avr. 1990(28),9,Milieu central                            ,R. Strasbourg
+Grimm,Jérémy ,27 mars 1987(31),5,Milieu défensif                            ,R. Strasbourg
+Sissoko,Ibrahima ,27 oct. 1997(20),9,Milieu défensif                            ,R. Strasbourg
+Lala,Kenny ,3 oct. 1991(27),10,Arrière droit                            ,R. Strasbourg
+Ndour,Abdallah ,20 déc. 1993(24),-,Arrière gauche                            ,R. Strasbourg
+Carole,Lionel ,12 avr. 1991(27),10,Arrière gauche                            ,R. Strasbourg
+Aaneba,Ismaël ,29 mai 1999(19),-,,R. Strasbourg
+Tchamba,Duplexe ,10 juil. 1998(20),Journée,Défenseur central                            ,R. Strasbourg
+Martinez,Pablo ,21 févr. 1989(29),9,Défenseur central                            ,R. Strasbourg
+Caci,Anthony ,1 juil. 1997(21),8,1er niveau,R. Strasbourg
+Mitrovic,Stefan ,22 mai 1990(28),10,Défenseur central                            ,R. Strasbourg
+Koné,Lamine ,1 févr. 1989(29),4,Défenseur central                            ,R. Strasbourg
+Pelletier,Louis ,3 févr. 2000(18),Journée,Gardien de but                            ,R. Strasbourg
+Kawashima,Eiji ,20 mars 1983(35),-,Gardien de but                            ,R. Strasbourg
+Kamara,Bingourou ,21 oct. 1996(22),-,Gardien de but                            ,R. Strasbourg
+Sels,Matz ,26 févr. 1992(26),10,Gardien de but                            ,R. Strasbourg
+Bammou,Yacine ,11 sept. 1991(27),9,Avant centre                            ,SM Caen
+Crivelli,Enzo ,6 févr. 1995(23),8,Avant centre                            ,SM Caen
+Beauvue,Claudio ,16 avr. 1988(30),7,Ailier droit                            ,SM Caen
+Repas,Jan ,19 mars 1997(21),-,Ailier gauche                            ,SM Caen
+Ninga,Casimir ,17 mai 1993(25),10,Ailier gauche                            ,SM Caen
+Louis,Jeff ,8 août 1992(26),Journée,Milieu offensif                            ,SM Caen
+Fajr,Fayçal ,1 août 1988(30),9,Milieu offensif                            ,SM Caen
+Khaoui,Saîf-Eddine ,27 avr. 1995(23),4,Milieu offensif                            ,SM Caen
+Deminguet,Jessy ,7 janv. 1998(20),6,Milieu central                            ,SM Caen
+Peeters,Stef ,9 févr. 1992(26),7,Milieu central                            ,SM Caen
+Diomandé,Ismaël ,28 août 1992(26),1,Milieu défensif                            ,SM Caen
+Sankoh,Baissama ,20 mars 1992(26),3,Milieu défensif                            ,SM Caen
+Oniangué,Prince ,4 nov. 1988(29),10,Milieu défensif                            ,SM Caen
+Dabo,Mouhamadou ,28 nov. 1986(31),-,Arrière droit                            ,SM Caen
+Gradit,Jonathan ,24 nov. 1992(25),1,Arrière droit                            ,SM Caen
+Guilbert,Frédéric ,24 déc. 1994(23),9,Arrière droit                            ,SM Caen
+Alhadhur,Chaker ,4 déc. 1991(26),Journée,Arrière gauche                            ,SM Caen
+Imorou,Emmanuel ,16 sept. 1988(30),5,Arrière gauche                            ,SM Caen
+Armougom,Yoël ,5 juin 1998(20),6,Arrière gauche                            ,SM Caen
+Mbengue,Adama ,1 déc. 1993(24),5,Arrière gauche                            ,SM Caen
+Marega,Issa ,20 avr. 1998(20),-,Défenseur central                            ,SM Caen
+Genevois,Romain ,28 oct. 1987(30),4,Défenseur central                            ,SM Caen
+Baysse,Paul ,18 mai 1988(30),9,Défenseur central                            ,SM Caen
+Djiku,Alexander ,9 août 1994(24),8,Défenseur central                            ,SM Caen
+Callens,Thomas ,6 sept. 1998(20),Journée,Gardien de but                            ,SM Caen
+Reulet,Paul ,14 janv. 1994(24),Journée,Gardien de but                            ,SM Caen
+Zelazny,Erwin ,22 sept. 1991(27),-,Gardien de but                            ,SM Caen
+Samba,Brice ,25 avr. 1994(24),10,Gardien de but                            ,SM Caen
+Skuletic,Petar ,29 juin 1990(28),6,Avant centre                            ,HSC Montpellier
+Jeannot,Benjamin ,22 janv. 1992(26),6,Avant centre                            ,FCO Dijon
+Tavarès,Julio ,19 nov. 1988(29),8,Avant centre                            ,FCO Dijon
+Saïd,Wesley ,19 avr. 1995(23),8,Avant centre                            ,FCO Dijon
+Kwon,Chang-hun ,30 juin 1994(24),Journée,Ailier droit                            ,FCO Dijon
+Keita,Jules ,20 juil. 1998(20),10,,FCO Dijon
+Sliti,Naïm ,27 juil. 1992(26),10,Ailier gauche                            ,FCO Dijon
+Sammaritano,Frédéric ,23 mars 1986(32),4,Milieu offensif                            ,FCO Dijon
+Gourcuff,Yoann ,11 juil. 1986(32),8,Milieu offensif                            ,FCO Dijon
+Balmont,Florent ,2 févr. 1980(38),1,Milieu central                            ,FCO Dijon
+Abeid,Mehdi ,6 août 1992(26),9,Milieu central                            ,FCO Dijon
+Amalfitano,Romain ,27 août 1989(29),9,Milieu central                            ,FCO Dijon
+Loiodice,Enzo ,27 nov. 2000(17),8,Milieu central                            ,FCO Dijon
+Marié,Jordan ,29 sept. 1991(27),3,Milieu défensif                            ,FCO Dijon
+Alphonse,Mickaël ,12 juil. 1989(29),1,Arrière droit                            ,FCO Dijon
+Chafik,Fouad ,16 oct. 1986(32),1,Arrière droit                            ,FCO Dijon
+Rosier,Valentin ,19 août 1996(22),10,,FCO Dijon
+Bouka Moutou,Arnold ,28 nov. 1988(29),Journée,Arrière gauche                            ,FCO Dijon
+Haddadi,Oussama ,28 janv. 1992(26),10,Arrière gauche                            ,FCO Dijon
+Coulibaly,Senou ,4 sept. 1994(24),3,1er niveau,FCO Dijon
+Ciman,Laurent ,5 août 1985(33),4,Défenseur central                            ,FCO Dijon
+Aguerd,Nayef ,30 mars 1996(22),1,Défenseur central                            ,FCO Dijon
+Lautoa,Wesley ,25 août 1987(31),9,Défenseur central                            ,FCO Dijon
+Yambéré,Cédric ,6 nov. 1990(27),7,Défenseur central                            ,FCO Dijon
+Ntumba,Lévi ,12 janv. 2001(17),Journée,Gardien de but                            ,FCO Dijon
+Allain,Bobby ,28 nov. 1991(26),-,,FCO Dijon
+Rúnarsson,Rúnar Alex ,18 févr. 1995(23),10,Gardien de but                            ,FCO Dijon
+Laborde,Gaëtan ,3 mai 1994(24),13,Avant centre                            ,HSC Montpellier
+Delort,Andy ,9 oct. 1991(27),10,Avant centre                            ,HSC Montpellier
+Camara,Souleymane ,22 déc. 1982(35),3,Ailier droit                            ,HSC Montpellier
+Dolly,Keagan ,22 janv. 1993(25),3,Ailier gauche                            ,HSC Montpellier
+Mollet,Florent ,19 nov. 1991(26),6,Milieu offensif                            ,HSC Montpellier
+Sanson,Killian ,7 juin 1997(21),Journée,Milieu défensif                            ,HSC Montpellier
+Píriz,Facundo ,27 mars 1990(28),2,Milieu défensif                            ,HSC Montpellier
+Le Tallec,Damien ,19 avr. 1990(28),10,Milieu défensif                            ,HSC Montpellier
+Lasne,Paul ,16 janv. 1989(29),10,Milieu défensif                            ,HSC Montpellier
+Sambia,Junior ,7 sept. 1996(22),9,Milieu défensif                            ,HSC Montpellier
+Skhiri,Ellyes ,10 mai 1995(23),10,Milieu défensif                            ,HSC Montpellier
+Porsan-Clemente,Jérémie ,16 déc. 1997(20),-,Arrière droit                            ,HSC Montpellier
+Aguilar,Ruben ,26 avr. 1993(25),9,Arrière droit                            ,HSC Montpellier
+Cozza,Nicolas ,8 janv. 1999(19),3,Arrière gauche                            ,HSC Montpellier
+Oyongo,Ambroise ,22 juin 1991(27),7,Arrière gauche                            ,HSC Montpellier
+Hilton,,13 sept. 1977(41),8,Défenseur central                            ,HSC Montpellier
+Passi,Bryan ,5 août 1997(21),Journée,Défenseur central                            ,HSC Montpellier
+Congré,Daniel ,5 avr. 1985(33),10,Défenseur central                            ,HSC Montpellier
+Mendes,Pedro ,1 oct. 1990(28),10,Défenseur central                            ,HSC Montpellier
+Bertaud,Dimitry ,6 juin 1998(20),-,Gardien de but                            ,HSC Montpellier
+Cozzella,Vincenzo ,21 déc. 2001(16),1,Gardien de but                            ,HSC Montpellier
+Ligali,Jonathan ,28 mai 1991(27),-,Gardien de but                            ,HSC Montpellier
+Lecomte,Benjamin ,26 avr. 1991(27),10,Gardien de but                            ,HSC Montpellier
+Osei Yaw,Derick ,10 sept. 1998(20),Journée,-,Toulouse
+Gueye,Makhtar ,4 déc. 1997(20),1,,Saint-Étienne
+Diony,Loïs ,20 déc. 1992(25),10,Avant centre                            ,Saint-Étienne
+Beric,Robert ,17 juin 1991(27),4,Avant centre                            ,Saint-Étienne
+Hamouma,Romain ,29 mars 1987(31),6,Ailier droit                            ,Saint-Étienne
+Salibur,Yannis ,24 janv. 1991(27),8,Ailier droit                            ,Saint-Étienne
+Nordin,Arnaud ,17 juin 1998(20),7,Ailier gauche                            ,Saint-Étienne
+Monnet-Paquet,Kévin ,19 août 1988(30),8,Ailier gauche                            ,Saint-Étienne
+Cabella,Rémy ,8 mars 1990(28),8,Milieu offensif                            ,Saint-Étienne
+Khazri,Wahbi ,8 févr. 1991(27),9,Milieu offensif                            ,Saint-Étienne
+Camara,Mahdi ,30 juin 1998(20),1,Milieu central                            ,Saint-Étienne
+Selnaes,Ole ,7 juil. 1994(24),9,Milieu défensif                            ,Saint-Étienne
+Dioussé,Assane ,20 sept. 1997(21),4,Milieu défensif                            ,Saint-Étienne
+M'Vila,Yann ,29 juin 1990(28),10,Milieu défensif                            ,Saint-Étienne
+Panos,Mickaël ,10 févr. 1997(21),1,Arrière droit                            ,Saint-Étienne
+Debuchy,Mathieu ,28 juil. 1985(33),5,Arrière droit                            ,Saint-Étienne
+Polomat,Pierre-Yves ,27 déc. 1993(24),Journée,Arrière gauche                            ,Saint-Étienne
+M'Bengue,Cheikh ,23 juil. 1988(30),Journée,Arrière gauche                            ,Saint-Étienne
+Gabriel Silva,,13 mai 1991(27),8,Arrière gauche                            ,Saint-Étienne
+Saliba,William ,24 mars 2001(17),3,Défenseur central                            ,Saint-Étienne
+Perrin,Loïc ,7 août 1985(33),9,Défenseur central                            ,Saint-Étienne
+Kolodziejczak,Timothée ,1 oct. 1991(27),10,Défenseur central                            ,Saint-Étienne
+Subotic,Neven ,10 déc. 1988(29),9,Défenseur central                            ,Saint-Étienne
+Moulin,Jessy ,13 janv. 1986(32),-,Gardien de but                            ,Saint-Étienne
+Ruffier,Stéphane ,27 sept. 1986(32),10,Gardien de but                            ,Saint-Étienne
+Sanogo,Yaya ,27 janv. 1993(25),4,Avant centre                            ,Toulouse
+Leya Iseka,Aaron ,15 nov. 1997(20),8,Avant centre                            ,Toulouse
+Mubele,Firmin ,17 avr. 1994(24),5,Avant centre                            ,Toulouse
+Jean,Corentin ,15 juil. 1995(23),6,Ailier droit                            ,Toulouse
+Dossevi,Mathieu ,12 févr. 1988(30),11,Ailier droit                            ,Toulouse
+Taoui,Adil ,10 août 2001(17),Journée,Ailier gauche                            ,Toulouse
+Durmaz,Jimmy ,22 mars 1989(29),9,Ailier gauche                            ,Toulouse
+Gradel,Max ,30 nov. 1987(30),10,Ailier gauche                            ,Toulouse
+El Mokeddem,Hakim ,15 févr. 1999(19),2,Milieu offensif                            ,Toulouse
+García,Manu ,2 janv. 1998(20),10,Milieu offensif                            ,Toulouse
+Bostock,John ,15 janv. 1992(26),7,Milieu central                            ,Toulouse
+Cahuzac,Yannick ,18 janv. 1985(33),3,Milieu défensif                            ,Toulouse
+Mbia,Stéphane ,20 mai 1986(32),1,Milieu défensif                            ,Toulouse
+Bodiger,Yann ,9 févr. 1995(23),1,Milieu défensif                            ,Toulouse
+Sangaré,Ibrahim ,2 déc. 1997(20),9,,Toulouse
+Moreira,Steven ,13 août 1994(24),2,Arrière droit                            ,Toulouse
+Amian,Kelvin ,8 févr. 1998(20),8,Arrière droit                            ,Toulouse
+Goncalves,Mathieu ,8 juin 2001(17),Journée,Arrière gauche                            ,Toulouse
+Moubandje,François ,21 juin 1990(28),9,Arrière gauche                            ,Toulouse
+Sylla,Issiaga ,1 janv. 1994(24),2,Arrière gauche                            ,Toulouse
+Fortes,Steven ,17 avr. 1992(26),3,Défenseur central                            ,Toulouse
+Yago,Steeve ,16 déc. 1992(25),Journée,Défenseur central                            ,Toulouse
+Todibo,Jean-Clair ,30 déc. 1999(18),8,Défenseur central                            ,Toulouse
+Jullien,Christopher ,22 mars 1993(25),10,Défenseur central                            ,Toulouse
+Vidal,Marc ,3 juin 1991(27),Journée,Gardien de but                            ,Toulouse
+Goicoechea,Mauro ,27 mars 1988(30),-,Gardien de but                            ,Toulouse
+Reynet,Baptiste ,28 oct. 1990(27),10,Gardien de but                            ,Toulouse
+Kolo Muani,Randal ,5 déc. 1998(19),Journée,Avant centre                            ,FC Nantes
+Mendy,Alexandre ,20 mars 1994(24),Journée,Avant centre                            ,G. Bordeaux
+Briand,Jimmy ,2 août 1985(33),13,Avant centre                            ,G. Bordeaux
+Cornelius,Andreas ,16 mars 1993(25),11,Avant centre                            ,G. Bordeaux
+de Préville,Nicolas ,8 janv. 1991(27),12,Avant centre                            ,G. Bordeaux
+Youssouf,Zaydou ,11 juil. 1999(19),10,Ailier droit                            ,G. Bordeaux
+Kalu,Samuel ,26 août 1997(21),13,Ailier droit                            ,G. Bordeaux
+Karamoh,Yann ,8 juil. 1998(20),9,Ailier droit                            ,G. Bordeaux
+Kamano,François ,1 mai 1996(22),18,Ailier gauche                            ,G. Bordeaux
+Plasil,Jaroslav ,5 janv. 1982(36),13,Milieu central                            ,G. Bordeaux
+Vada,Valentín ,6 mars 1996(22),4,Milieu central                            ,G. Bordeaux
+Tchouaméni,Aurélien ,27 janv. 2000(18),13,Milieu central                            ,G. Bordeaux
+Sankharé,Younousse ,10 sept. 1989(29),17,Milieu central                            ,G. Bordeaux
+Lerager,Lukas ,12 juil. 1993(25),16,Milieu central                            ,G. Bordeaux
+Basic,Toma ,25 nov. 1996(21),6,Milieu défensif                            ,G. Bordeaux
+Otávio,,4 mai 1994(24),11,Milieu défensif                            ,G. Bordeaux
+Gajic,Milan ,28 janv. 1996(22),2,Arrière droit                            ,G. Bordeaux
+Palencia,Sergi ,23 mars 1996(22),11,Arrière droit                            ,G. Bordeaux
+Sabaly,Youssouf ,5 mars 1993(25),6,Arrière droit                            ,G. Bordeaux
+Pellenard,Théo ,4 mars 1994(24),Journée,Arrière gauche                            ,G. Bordeaux
+Poundjé,Maxime ,16 août 1992(26),14,Arrière gauche                            ,G. Bordeaux
+Lewczuk,Igor ,30 mai 1985(33),11,Défenseur central                            ,G. Bordeaux
+Pablo,,21 juin 1991(27),16,Défenseur central                            ,G. Bordeaux
+Jovanovic,Vukasin ,17 mai 1996(22),1,Défenseur central                            ,G. Bordeaux
+Koundé,Jules ,12 nov. 1998(19),18,Défenseur central                            ,G. Bordeaux
+Mandanda,Over ,26 oct. 1998(19),Journée,Gardien de but                            ,G. Bordeaux
