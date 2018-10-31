@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for MonScraper project
+# Scrapy settings for footscrap project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,10 +9,10 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'MonScraper'
+BOT_NAME = 'footscrap'
 
-SPIDER_MODULES = ['MonScraper.spiders']
-NEWSPIDER_MODULE = 'MonScraper.spiders'
+SPIDER_MODULES = ['footscrap.spiders']
+NEWSPIDER_MODULE = 'footscrap.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -47,13 +47,13 @@ DOWNLOAD_DELAY = 1
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'MonScraper.middlewares.MonscraperSpiderMiddleware': 543,
+#    'footscrap.middlewares.FootscrapSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'MonScraper.middlewares.MonscraperDownloaderMiddleware': 543,
+#    'footscrap.middlewares.FootscrapDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ DOWNLOAD_DELAY = 1
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'MonScraper.pipelines.MonscraperPipeline': 300,
+#    'footscrap.pipelines.FootscrapPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

@@ -2,18 +2,20 @@
 import scrapy
 from scrapy.http import Request
 
-class MoncrawlerSpider(scrapy.Spider):
 
-    name = 'monCrawler'
+class UrlteamSpider(scrapy.Spider):
+    name = 'urlteam'
     allowed_domains = ['www.transfermarkt.fr']
     start_urls = ['https://www.transfermarkt.fr/ligue-1/startseite/wettbewerb/FR1/saison_id/2018']
 
-    def delextrachar(self, str):
+
+    def delextrachar(self,str):
 
         delr = str.replace("\r", "")
         delt = delr.replace("\t", "")
         final = delt.replace("\n", "")
         return final
+
 
     def parse(self, response):
         urls = response.xpath('//*[@class="hauptlink no-border-links show-for-small show-for-pad"]/a/@href').extract()
@@ -25,7 +27,7 @@ class MoncrawlerSpider(scrapy.Spider):
         urls = response.xpath('//*[@class="hide-for-small"]/a/@href').extract()
         for url in urls:
             urlcomplet = response.urljoin(url)
-            urlcomplet = urlcomplet.replace("profil", "leistungsdaten")
+            urlcomplet = urlcomplet.replace("profil","leistungsdaten")
             urlcomplet += "/saison/2018/plus/1#gesamt"
 
             yield Request(urlcomplet, callback=self.parse_data)
@@ -45,4 +47,8 @@ class MoncrawlerSpider(scrapy.Spider):
                'age': self.delextrachar(age),
                'totalbut': totalbut,
                'poste': poste,
-               'equipe': team}
+               'equipe' : team}
+
+
+# https://www.transfermarkt.fr/moussa-doumbia/profil/spieler/316137
+# https://www.transfermarkt.fr/gianluigi-buffon/leistungsdaten/spieler/5023/saison/2018/plus/1#gesamt
